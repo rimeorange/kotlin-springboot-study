@@ -54,13 +54,7 @@
 
 # 📝 Study Notes
 
-- [Chapter 01](./chapter01.md)
 
-- [Chapter 02](./chapter02.md)
-
-- [Chapter 03](./chapter03.md)
-
-- [Chapter 04](./chapter04.md)
 
 - [Chapter 05](./chapter05.md)
 
